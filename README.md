@@ -19,4 +19,4 @@ Options
 -------
 
 All options are passed to `scrot`, this script will only add the required
-option to upload the screenshot directly on NoelShack using
+option to upload the screenshot directly on NoelShack using `noelshack-up`.
