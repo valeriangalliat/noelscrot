@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-
-set -e
-
-scrot "$@" -e 'noelshack-up $f'
