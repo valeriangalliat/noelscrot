@@ -2,4 +2,4 @@
 
 set -e
 
-scrot "$@" -e 'noelshack-up $f'
+scrot "$@" -e 'noelup $f; rm $f'
