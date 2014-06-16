@@ -1,5 +1,3 @@
-#!/usr/bin/env sh
+#!/bin/sh -e
 
-set -e
-
-scrot "$@" -e 'noelup $f; rm $f'
+scrot "$@" -e 'noelup $f; rm $f' noelscrot.png
